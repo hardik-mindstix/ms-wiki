@@ -1,7 +1,7 @@
 # ms-wiki
 Learning material for newbie !!
 
-# NodeJS
+# Java
 
 + [Coding Conventions - Part I](https://github.com/hardik-mindstix/ms-wiki/blob/master/java/1.%20Coding%20Conventions%20%5BPart%201%5D.pdf)
 + [Coding Conventions - Part II](https://github.com/hardik-mindstix/ms-wiki/blob/master/java/2.%20Coding%20Conventions%20%5BPart%202%5D.pdf)
